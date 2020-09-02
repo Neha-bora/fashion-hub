@@ -1,0 +1,106 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: white;
+}
+
+.bg-pink {
+   background:  #cc0052;
+
+}
+
+.bg-white{
+  background: white;
+
+}
+
+.bg-yellow{
+  background: yellow;
+}
+.bg-green{
+  background :yellowgreen;
+}
+
+.card-fixed{
+  width: 20rem;
+  height: 27em;
+}
+.image-size{
+  width: auto;
+  height: 10rem;
+ 
+}
+
+
+
+h1{
+  font-family: 'Abril Fatface', cursive; 
+}
+ 
+
+h2{
+ 
+  
+   font-family: 'Lobster', cursive;
+}
+
+
+.pStyle{
+  
+  font-family: 'Abril Fatface', cursive; 
+}
+
+.bg-blue{
+   background: #50a3a2;;
+}
+
+.pCaption{
+  color:  #cc0052;
+}
+
+.heading {
+  font-size: 50px;
+  font-weight: bold;
+  border-bottom: 5px solid black;
+  background-color: powderblue;
+}
+
+
+
+ /*Navigation bar*/
+
+.navbar-brand{
+	
+	font-size: 1.5rem;
+	font-weight: 700;
+}
+.nav-item{
+  padding: 0 15px;
+ 
+}
+
+.nav-link{
+
+  font-size:1rem;
+  font-weight: 500;
+
+	
+}
+
+.social-icon {
+  margin: 20px 10px;
+  font-size: 25px;
+  
+}
+
+
+/* footer {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+} */
